@@ -5,4 +5,5 @@ for example:
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --remote-allow-origins=*
 <img width="435" height="680" alt="image" src="https://github.com/user-attachments/assets/e21d9daf-b046-4117-ae4a-fd514f5ece2f" />
 
-<img width="447" height="1192" alt="image" src="https://github.com/user-attachments/assets/d002cc4e-26ae-4942-8a9a-b5a293f0a0d1" />
+<img width="435" height="1192" alt="image" src="https://github.com/user-attachments/assets/f816f95f-531b-445d-89d3-a172f17efa56" />
+
